@@ -1,5 +1,5 @@
 // /* /index.html 200
-// redirect file in netlify code
+// redirect file in netlify code cli
 import React, { Component } from "react";
 import "./App.css";
 import fire from "./fire.js";
