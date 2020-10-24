@@ -1,4 +1,3 @@
-// /* /index.html 200
 import React, { Component } from "react";
 import "./App.css";
 import fire from "./fire.js";
